@@ -1,3 +1,5 @@
+Fork Info: mesa 25.1.8 for Windows Drivers that do not support mesa 25.2.x requirements
+
 Automatic build of [mesa][] opengl & vulkan implementations for Windows (x86, x64, arm64).
 
 Builds are linked statically to their dependencies, just place necessary dll file next to your exe and it will use it.
