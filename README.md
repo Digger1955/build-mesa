@@ -1,4 +1,4 @@
-Fork Info: mesa 25.1.8 for Windows Drivers that do not support mesa 25.2.x requirements
+Fork Info: mesa 25.1.8 and 25.1.9 for Windows Drivers that do not support mesa 25.2.x requirements
 
 Automatic build of [mesa][] opengl & vulkan implementations for Windows (x86, x64, arm64).
 
